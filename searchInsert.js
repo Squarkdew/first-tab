@@ -7,4 +7,4 @@ function searchInsert(arr, num) {
   return arr.length;
 }
 
-console.log(searchInsert([1, 2, 4, 4], 7));
+console.log(searchInsert([1, 2, 4, 4], 3));
